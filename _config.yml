@@ -14,16 +14,15 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: SneakyPackets
 
 description: Stylish Jekyll Theme
 author:
   name: SneakyPackets
   email: hello@sneakypackets.com
-  github: https://github.com/SneakyPackets
-  twitter: https://twitter.com/SneakyPackets
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  github: SneakyPackets
+  twitter: SneakyPackets
+  bio: Tech Blog
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
