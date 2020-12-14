@@ -16,14 +16,14 @@ defaults:
     values:
       title: SneakyPackets
 
-description: Stylish Jekyll Theme
+description: Tech blog
 author:
   name: SneakyPackets
   email: hello@sneakypackets.com
   github: SneakyPackets
   twitter: SneakyPackets
   bio: Tech Blog
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 2cbfc554c6488bf0d6aa74d4efdae248
 
 rss_path: feed.xml
 categories_path: categories.html
