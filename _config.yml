@@ -25,6 +25,7 @@ author:
   bio: 
   email_md5: 2cbfc554c6488bf0d6aa74d4efdae248
 
+
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
